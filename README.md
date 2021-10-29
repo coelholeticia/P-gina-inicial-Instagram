@@ -1,4 +1,4 @@
 # Pagina-inicial-Instagram
 <div>
-<img src="tela ex.png">
+<img src="Tela ex.png">
 </div>
